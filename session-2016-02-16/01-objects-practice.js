@@ -36,7 +36,7 @@ var createNinjaCollection = function(arrayOfStrings){
     var newObject = {}
   
     //Split the string into an array (splitNameArray) -- 
-    //   index-value @ 0 will equal the first ame
+    //   index-value @ 0 will equal the first name
     //   index-value @ 1 will equal the last name 
     var splitNameArray = arrayOfStrings[i].split(" ")
 
